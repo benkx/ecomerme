@@ -1,0 +1,37 @@
+/*nav {
+		
+		color:#9E9E9E;
+		padding: 10px 15px;
+		text-decoration: none;
+		font-size: 16px;
+	}
+
+	<!DOCTYPE html>
+<html>
+<head>
+	<title>ecommerce</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+
+<nav class="navbar navbar-inverse">
+
+ 	<p class="navbar-text navbar-left">  <a href="#" class="navbar-link">  E-commerce</a></p>
+ 	<p class="navbar-text pull-right"><a href="#" class="navbar-link ">Salir</a></p>
+ 	<p class="navbar-text pull-right"><a href="#" class="navbar-link glyphicon glyphicon-shopping-cart"> Canasta</a></p>
+ 	
+
+</nav>
+
+<div class="container">
+<div class="row">
+
+</div>
+</div>
+</body>
+</html>
